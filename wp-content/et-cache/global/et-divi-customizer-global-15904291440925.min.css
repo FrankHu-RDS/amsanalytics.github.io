@@ -38,8 +38,11 @@
 .tab-content {display: none;}
 .tab-open {display: block;}
 @media (min-width:767px) {#top-menu-nav {padding-top: 37px;padding-right: 100px;}}
-div#\#tab1 {height: 75px !important;}
-div#\#tab2 {height: 75px !important;}
-div#\#tab3 {height: 75px !important;}
-div#\#tab4 {height: 75px !important;}
-div#\#tab5 {height: 75px !important;}
+div#\#tab1 {height: 85px !important;}
+div#\#tab2 {height: 85px !important;}
+div#\#tab3 {height: 85px !important;}
+div#\#tab4 {height: 85px !important;}
+div#\#tab5 {height: 85px !important;}
+.et_pb_blurb_description p{
+	margin-top:10px !important;
+}
